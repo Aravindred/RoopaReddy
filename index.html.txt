@@ -4,6 +4,12 @@
 <title>Home</title>
 </head>
 <body>
+<header>App</header>
+<section> 
 <p> This is home page</p>
+</section>
+<footer>
+footer 
+</footer>
 </body>
 </html>
